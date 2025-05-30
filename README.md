@@ -15,18 +15,6 @@ A modern, fully responsive landing page built with HTML5, CSS3, and JavaScript. 
 - **Accessibility Compliant** - ARIA labels and keyboard navigation support
 - **Cross-Browser Compatible** - Works on all modern browsers
 
-## 🚀 Live Demo
-
-[View Live Demo](https://yourusername.github.io/responsive-landing-page)
-
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/667eea/ffffff?text=Mobile+View)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Semantic markup and structure
